@@ -19,11 +19,11 @@ Seluruh aktivitas operasional dan pengambilan keputusan finansial dilakukan seca
 
 Alokasi dana pribadi dikelola secara strategis dengan pembagian porsi risiko terukur:
 
-* **40% — Liquid Digital Assets**
+* **90% — Liquid Digital Assets**
   * Fokus pada aset kripto utama berlikuiditas tinggi seperti *Bitcoin (BTC)* dan *Ethereum (ETH)* sebagai instrumen kelangkaan digital dan teknologi terdesentralisasi.
-* **40% — Saham (Domestik & Global) & ETF**
+* **10% — Saham (Domestik & Global) & ETF**
   * Akumulasi jangka panjang pada perusahaan-perusahaan berkualitas tinggi di bursa domestik (IHSG), saham teknologi global, serta reksa dana terindeks (*S&P 500 ETF*).
-* **20% — Kas, Emas & Pendapatan Tetap**
+* **10% — Kas, Emas & Pendapatan Tetap**
   * Penyimpanan porsi lindung nilai (*hedging*) pada emas fisik, kas, dan obligasi untuk menjaga fleksibilitas likuiditas dan manajemen risiko ekstrim.
 
 ---
